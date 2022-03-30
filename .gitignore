@@ -52,4 +52,5 @@ Thumbs.db
 input/data/
 
 venv/
+.ipynb_checkpoints/
 *.pytest_cache/
